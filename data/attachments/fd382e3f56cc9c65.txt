@@ -1,0 +1,3 @@
+
+[POST] [Login with valid credentials] -> /users/login
+[200] API RESPONSE (76ms)

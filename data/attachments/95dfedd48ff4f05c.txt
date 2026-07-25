@@ -1,0 +1,15 @@
+
+[GET] -> /favorites
+[200] API RESPONSE (47ms)
+
+[GET] -> /products
+[200] API RESPONSE (16ms)
+
+[GET] -> /favorites
+[200] API RESPONSE (25ms)
+
+[GET] -> /favorites
+[200] API RESPONSE (27ms)
+
+[DELETE] [Remove the favourite created by this test] -> /favorites/01kycxgb6b7a1ad71dehgzn24q
+[204] API RESPONSE (26ms)

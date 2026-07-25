@@ -1,0 +1,3 @@
+
+[DELETE] [Call an unsupported method on the products collection] -> /products
+[405] API RESPONSE (10ms)

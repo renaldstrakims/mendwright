@@ -1,0 +1,1 @@
+[{"values":["http://localhost:4200"],"name":"Base URL"},{"values":["http://localhost:8091"],"name":"API URL"},{"values":["Chromium (Desktop Chrome)"],"name":"Browser"},{"values":["v24.14.0"],"name":"Node"},{"values":["main"],"name":"CI branch"},{"values":["085288c"],"name":"CI commit"},{"values":["29"],"name":"CI run"}]

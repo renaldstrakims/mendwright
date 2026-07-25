@@ -1,0 +1,102 @@
+[
+  {
+    "id": "01KYCXFRQ4JH0MA92ZT5W2ND7H",
+    "user_id": "01KYCXFR7D2CNZDY3K6EYQK5QW",
+    "product_id": "01KYCXFRH5EFWM7KE38AWF6HGF",
+    "product": {
+      "id": "01KYCXFRH5EFWM7KE38AWF6HGF",
+      "name": "Combination Pliers",
+      "description": "Versatile combination pliers designed for gripping, bending, and cutting wire with ease. Featuring chrome vanadium steel construction with induction-hardened cutting edges, these pliers deliver excellent grip and leverage for a wide range of tasks. The precision-machined jaws combine flat gripping surfaces with a pipe-grip section and integrated wire cutter for true multi-purpose functionality. Ergonomic bi-component handles reduce hand fatigue during extended use and provide a secure hold even with oily or gloved hands. The joint is precisely fitted to eliminate play and ensure smooth operation over thousands of cycles. Ideal for electricians, mechanics, and DIY enthusiasts tackling everyday projects around the workshop or job site.",
+      "price": 14.15,
+      "is_location_offer": false,
+      "is_rental": false,
+      "co2_rating": "D",
+      "in_stock": true,
+      "is_eco_friendly": false,
+      "product_image": {
+        "id": "01KYCXFRGXFM4C8Y49BPCFE9PY",
+        "by_name": "Helinton Fantin",
+        "by_url": "https://unsplash.com/@fantin",
+        "source_name": "Unsplash",
+        "source_url": "https://unsplash.com/photos/W8BNwvOvW4M",
+        "file_name": "pliers01.avif",
+        "title": "Combination pliers"
+      }
+    }
+  },
+  {
+    "id": "01KYCXFRQ5BF3CY6W9A64M6VEF",
+    "user_id": "01KYCXFR7D2CNZDY3K6EYQK5QW",
+    "product_id": "01KYCXFRHDVREPQSYF54NSE4RA",
+    "product": {
+      "id": "01KYCXFRHDVREPQSYF54NSE4RA",
+      "name": "Slip Joint Pliers",
+      "description": "Adjustable slip joint pliers that feature a two-position pivot mechanism for switching between regular and wide jaw openings to accommodate different fastener sizes. The PVC-coated handles offer a comfortable, non-slip grip while the precisely machined jaws securely grasp round, flat, and hexagonal objects without slipping. Constructed from durable drop-forged carbon steel that has been heat-treated to withstand heavy daily use in professional environments. The curved jaw section grips pipes and cylindrical objects, while the flat front surface handles nuts, bolts, and sheet materials. A wire cutter integrated near the pivot handles light cutting tasks without reaching for a separate tool. Perfect for plumbing, automotive, HVAC, and general maintenance work where a single versatile gripping tool saves time.",
+      "price": 9.17,
+      "is_location_offer": false,
+      "is_rental": false,
+      "co2_rating": "D",
+      "in_stock": true,
+      "is_eco_friendly": false,
+      "product_image": {
+        "id": "01KYCXFRGXFM4C8Y49BPCFE9Q2",
+        "by_name": "Yasin Hasan",
+        "by_url": "https://unsplash.com/@yasin",
+        "source_name": "Unsplash",
+        "source_url": "https://unsplash.com/photos/dwlxTSpfKXg",
+        "file_name": "pliers05.avif",
+        "title": "Slip joint pliers"
+      }
+    }
+  },
+  {
+    "id": "01KYCXFRQ6PZEEZ3QNR1RRQNZF",
+    "user_id": "01KYCXFR7D2CNZDY3K6EYQK5QW",
+    "product_id": "01KYCXFRJV1AB5W5DQBN03T4AD",
+    "product": {
+      "id": "01KYCXFRJV1AB5W5DQBN03T4AD",
+      "name": "Belt Sander",
+      "description": "Powerful 800W belt sander engineered for aggressive material removal on large flat surfaces including tabletops, doors, hardwood flooring, and timber decking. The 76x533mm sanding belt travels at an impressive 380 meters per minute, enabling rapid stock removal, paint stripping, and surface leveling in a fraction of the time required by orbital sanders. A precision front roller nose allows flush sanding against walls, inside corners, and perpendicular surfaces for complete coverage without leaving unsanded edges. The quick-release belt change mechanism allows swapping abrasive grits in seconds without tools, keeping workflow interruptions to a minimum. A secondary handle on the front provides two-handed control and even pressure distribution across the full width of the belt. The dust extraction bag and auxiliary vacuum port work together to capture the large volume of fine particles generated during aggressive sanding operations.",
+      "price": 73.59,
+      "is_location_offer": false,
+      "is_rental": false,
+      "co2_rating": "E",
+      "in_stock": true,
+      "is_eco_friendly": false,
+      "product_image": {
+        "id": "01KYCXFRGXFM4C8Y49BPCFE9QH",
+        "by_name": "Luther.M.E. Bottrill",
+        "by_url": "https://unsplash.com/@luthermeb",
+        "source_name": "Unsplash",
+        "source_url": "https://unsplash.com/photos/7kHN1-9dD_4",
+        "file_name": "sander02.avif",
+        "title": "Belt sander"
+      }
+    }
+  },
+  {
+    "id": "01kycxgb6b7a1ad71dehgzn24q",
+    "user_id": "01KYCXFR7D2CNZDY3K6EYQK5QW",
+    "product_id": "01KYCXFRH859K186VHYQ55TJCW",
+    "product": {
+      "id": "01KYCXFRH859K186VHYQ55TJCW",
+      "name": "Pliers",
+      "description": "Reliable general-purpose pliers crafted from drop-forged carbon steel for long-lasting durability in demanding working conditions. The serrated jaws provide a firm grip on a variety of materials including wire, nails, small fasteners, and irregularly shaped objects. Comfortable rubber-coated handles absorb vibration and reduce hand fatigue during extended use, while the non-slip surface ensures confident handling. The precision pivot joint maintains alignment under load, delivering smooth, controlled jaw action with every squeeze. Heat-treated steel construction resists wear and deformation even under heavy use. A must-have foundational tool for any workshop, equally suited for professional tradespeople and home repair projects.",
+      "price": 12.01,
+      "is_location_offer": false,
+      "is_rental": false,
+      "co2_rating": "D",
+      "in_stock": true,
+      "is_eco_friendly": false,
+      "product_image": {
+        "id": "01KYCXFRGXFM4C8Y49BPCFE9PZ",
+        "by_name": "Everyday basics",
+        "by_url": "https://unsplash.com/@zanardi",
+        "source_name": "Unsplash",
+        "source_url": "https://unsplash.com/photos/I8eTuMmxIfo",
+        "file_name": "pliers02.avif",
+        "title": "Pliers"
+      }
+    }
+  }
+]

@@ -1,0 +1,3 @@
+
+[GET] [Search products for "pliers"] -> /products/search?q=pliers
+[200] API RESPONSE (28ms)

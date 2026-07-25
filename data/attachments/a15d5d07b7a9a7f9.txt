@@ -1,0 +1,3 @@
+
+[GET] [Fetch a non-existent product] -> /products/00000000000000000000000000
+[404] API RESPONSE (11ms)

@@ -1,0 +1,3 @@
+
+[GET] [List products (first page)] -> /products
+[200] API RESPONSE (11ms)

@@ -1,0 +1,3 @@
+
+[POST] [Register with an incomplete body] -> /users/register
+[422] API RESPONSE (26ms)

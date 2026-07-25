@@ -1,0 +1,6 @@
+
+[GET] [List products to pick a real id] -> /products
+[200] API RESPONSE (11ms)
+
+[GET] [Fetch a single product by id] -> /products/01KYCXFRH5EFWM7KE38AWF6HGF
+[200] API RESPONSE (15ms)
